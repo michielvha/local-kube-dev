@@ -1,3 +1,4 @@
+# MOVED TO PDS
 function Install-Minikube {
     # or just use chocolatey `choco install minikube`
     New-Item -Path 'c:\' -Name 'minikube' -ItemType Directory -Force
